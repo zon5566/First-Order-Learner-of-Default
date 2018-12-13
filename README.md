@@ -17,7 +17,7 @@ To run the code, you have to store the dataset into run.pl with the variables.
     Ex: [a, b, jet]
     
 * ```Neg``` : a list of the negative examples.
-    Ex: [c, d]by
+    Ex: [c, d]
     
 * ```Predicates```: A set of predicates that occurs in the background knowledge.
     Ex: [bird, cat, penguin]
