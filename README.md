@@ -11,12 +11,12 @@ SWI-Prolog 7.6.4.
 
 To run the code, you have to store the dataset into run.pl with the variables.
 * ```B``` : a list of the background knowledge.<br>
-    ex: [bird(X):-penguin(X), bird(a), bird(b), cat(c), penguin(d)]
+    ex: [bird(X):-penguin(X), bird(a), bird(b), cat(c), penguin(d)]<br>
 * ```Pos``` : a list of the positive examples.<br>
-    ex: [a, b, jet]
+    ex: [a, b, jet]<br>
 * ```Neg``` : a list of the negative examples.<br>
-    ex: [c, d]
+    ex: [c, d]<br>
 * ```Predicates```: A set of predicates that occurs in the background knowledge.
-    ex: [bird, cat, penguin]
+    ex: [bird, cat, penguin]<br>
 * ```Goal``` : The final goal that you want the algorithm to learn.
-    ex: fly
+    ex: fly<br>
