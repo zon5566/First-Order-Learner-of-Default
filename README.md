@@ -17,7 +17,7 @@ To run the code, you have to store the dataset into run.pl with the variables.
     Ex: [a, b, jet]
     
 * ```Neg``` : a list of the negative examples.
-    Ex: [c, d]
+    Ex: [c, d]by
     
 * ```Predicates```: A set of predicates that occurs in the background knowledge.
     Ex: [bird, cat, penguin]
@@ -25,4 +25,4 @@ To run the code, you have to store the dataset into run.pl with the variables.
 * ```Goal``` : The final goal that you want the algorithm to learn.
     Ex: fly
 
-Second, import the files run.pl and fold.pl in SWI-Prolog, and run the function by typing ```run.```
+Second, import the files run.pl and fold.pl in SWI-Prolog, and run the function with the command ```run.```
