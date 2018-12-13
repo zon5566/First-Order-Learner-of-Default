@@ -25,4 +25,4 @@ To run the code, you have to store the dataset into run.pl with the variables.
 * ```Goal``` : The final goal that you want the algorithm to learn.
     Ex: fly
 
-Second, import the files run.pl and fold.pl in SWI-Prolog, and run the main function with the command ```run.```
+Then, import the files ```run.pl``` and ```fold.pl``` in SWI-Prolog, and run the main function with the command ```run.```
