@@ -5,7 +5,7 @@ This project is the implementation of the First Order Learner of Default (FOLD) 
 The paper could be found via the link: <a href="https://arxiv.org/abs/1707.02693">Original paper</a>
 
 ## Language
-SWI-Prolog 7.6.4.
+SWI-Prolog 7.6.4
 
 ## Testing
 
