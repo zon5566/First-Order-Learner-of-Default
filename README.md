@@ -1,4 +1,4 @@
-# CSE505 - Computing with Logic: Final Project
+# First Order Learner of Default
 
 This project is the implementation of the First Order Learner of Default (FOLD) algorithm from the work of Farhad Shakerin, Elmer Salazar, and Gopal Gupta, _A New Algorithm to Automate Inductive Learning of Default Theories_, ICLP, Melbourne, 2017. 
 
